@@ -1,0 +1,10 @@
+.reg_form.hidden, .auth_form.hidden {
+    display: none;
+}
+
+input[type="file"]
+{
+    display: block;
+}
+
+
