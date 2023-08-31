@@ -4,6 +4,6 @@
 
 В качестве референса социальной сети был выбран pinterest
 
-Бзор сайта:
+Обзор сайта:
   
 https://user-images.githubusercontent.com/95151966/219961774-61b8bc24-2a94-4278-b6a0-b1095eeb6f4d.mp4
